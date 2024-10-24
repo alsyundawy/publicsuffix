@@ -6727,7 +6727,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-09-26T15:17:07Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-10-24T15:21:30Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -8405,11 +8405,11 @@ haus
 // https://www.iana.org/domains/root/db/hbo.html
 hbo
 
-// hdfc : HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
+// hdfc : HDFC BANK LIMITED
 // https://www.iana.org/domains/root/db/hdfc.html
 hdfc
 
-// hdfcbank : HDFC Bank Limited
+// hdfcbank : HDFC BANK LIMITED
 // https://www.iana.org/domains/root/db/hdfcbank.html
 hdfcbank
 
@@ -9333,7 +9333,7 @@ nissay
 // https://www.iana.org/domains/root/db/nokia.html
 nokia
 
-// norton : NortonLifeLock Inc.
+// norton : Gen Digital Inc.
 // https://www.iana.org/domains/root/db/norton.html
 norton
 
