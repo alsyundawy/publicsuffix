@@ -6731,7 +6731,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-11-27T15:18:01Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-12-12T15:24:19Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -6961,7 +6961,7 @@ art
 // https://www.iana.org/domains/root/db/arte.html
 arte
 
-// asda : Wal-Mart Stores, Inc.
+// asda : Asda Stores Limited
 // https://www.iana.org/domains/root/db/asda.html
 asda
 
@@ -11141,7 +11141,7 @@ yahoo
 // https://www.iana.org/domains/root/db/yamaxun.html
 yamaxun
 
-// yandex : Yandex Europe B.V.
+// yandex : ADC Tech Netherlands B.V.
 // https://www.iana.org/domains/root/db/yandex.html
 yandex
 
