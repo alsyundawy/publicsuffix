@@ -6809,7 +6809,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-01T20:07:38Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-10-31T19:10:30Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -8494,10 +8494,6 @@ healthcare
 // help : Innovation service Limited
 // https://www.iana.org/domains/root/db/help.html
 help
-
-// helsinki : City of Helsinki
-// https://www.iana.org/domains/root/db/helsinki.html
-helsinki
 
 // here : Charleston Road Registry Inc.
 // https://www.iana.org/domains/root/db/here.html
@@ -10215,7 +10211,7 @@ stada
 // https://www.iana.org/domains/root/db/staples.html
 staples
 
-// star : Star India Private Limited
+// star : JioStar India Private Limited
 // https://www.iana.org/domains/root/db/star.html
 star
 
